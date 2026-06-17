@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+geopy
+requests
+openpyxl
