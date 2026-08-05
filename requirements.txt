@@ -4,3 +4,4 @@ numpy
 geopy
 requests
 openpyxl
+starlette<1.4.0
